@@ -82,4 +82,4 @@ Used for hands-on learning, security research, and self-hosted services.
 
 ## 📸 Screenshots
 ![Network Diagram](images/network-diagram.png)
-![Server Rack](images/server-rack.jpg)
+![Server Rack](images/server-rack.png)
