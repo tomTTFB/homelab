@@ -12,7 +12,7 @@ Used for hands-on learning, security research, and self-hosted services.
 | HP EliteDesk 800 G2 | i5-6600T, 32GB RAM | Proxmox Node 1 (pve) |
 | Dell PowerEdge R230 | Xeon E3-1270 v6, 32GB RAM, 5TB HDD | Proxmox Node 2 (pve2) |
 | HP ProDesk 405 G4 Mini | Ryzen 3 PRO 2200GE, 10GB RAM | Proxmox Node 3 (pve3) |
-| Acer Aspire A314 | - | Permanent Kali Remote Desktop |
+| Acer Aspire A314 | AMD A6-9220e, 8GB RAM, 128GB SSD | Permanent Kali Remote Desktop |
 | HP ProDesk 400 G3 | i3-6100T, 8GB RAM, 128GB NVMe, 240GB SATA | Unused |
 | Raspberry Pi 4 | 2GB RAM, PoE | Unused |
 | Netgear GS724T | 24-port managed | Core Switch |
