@@ -15,7 +15,8 @@ Used for hands-on learning, security research, and self-hosted services.
 | Acer Aspire A314 | AMD A6-9220e, 8GB RAM, 128GB SSD | Permanent Kali Remote Desktop |
 | HP ProDesk 400 G3 | i3-6100T, 8GB RAM, 128GB NVMe, 240GB SATA | Unused |
 | Raspberry Pi 4 | 2GB RAM, PoE | Unused |
-| Netgear GS724T | 24-port managed | Core Switch |
+| Netgear GS724T | 24x 1G RJ45, 2x 1G SFP, L2+ Smart Managed, fanless | Core Switch |
+| Netgear FS728TP v2 | 28-port PoE Smart Switch | Unused (in rack) |
 | 12U Rack | - | Housing |
 
 ---
@@ -80,6 +81,5 @@ Used for hands-on learning, security research, and self-hosted services.
 ---
 
 ## 📸 Screenshots
-
-![Homepage Dashboard](images/dashboard.png)
-![Proxmox](images/proxmox.png)
+![Network Diagram](images/network-diagram.png)
+![Server Rack](images/server-rack.jpg)
