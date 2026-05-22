@@ -50,7 +50,6 @@ Used for hands-on learning, security research, and self-hosted services.
 ### pve (Node 1 — HP EliteDesk 800 G2)
 | ID | Name | Type | Description |
 |----|------|------|-------------|
-| 100 | siem | LXC | Wazuh + ELK SIEM stack for security monitoring |
 | 101 | cloudflared-docker | LXC | Cloudflare tunnel Docker container |
 | 106 | openclaw | LXC | OpenClaw AI agent |
 | 107 | openclaw-workspace | LXC | Workspace environment for OpenClaw AI agent |
@@ -76,6 +75,8 @@ Used for hands-on learning, security research, and self-hosted services.
 ### pve3 (Node 3 — HP ProDesk 405 G4 Mini)
 | ID | Name | Type | Description |
 |----|------|------|-------------|
+| 100 | siem | LXC | Wazuh + ELK SIEM stack for security monitoring |
+| 110 | fedora | LXC | Fedora LXC monitored by Wazuh for testing |
 | 122 | dc01 | VM | Windows Server 2022 Active Directory domain controller (lab.local) |
 
 ---
